@@ -1,0 +1,2 @@
+# Linux_OpenCV_test
+JetsonNanoでのOpenCV利用試験
